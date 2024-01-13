@@ -24,7 +24,7 @@
 </picture>
 
 -   Student Self Taught Programmer
--   OS: [Zorin OS](https://zorin.com/os) (Linux)
+-   OS: [Arch Linux](https://archlinux.org/)
 -   Currently working on advent of code
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
 
