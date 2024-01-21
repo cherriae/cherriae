@@ -44,8 +44,13 @@
 </div>
 
 <div class="header" align="center">
+  <h2> Discord </h2>
+  <img src="https://discord-readme-badge.vercel.app/api?id=827660621662257162" alt="discord" height="175" width="400"/>
+</div>
+
+<div class="header" align="center">
   <h2>My stats</h2>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cherriae">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherriae&layout=compact&theme=vision-friendly-dark">
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cherriae" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherriae&layout=compact&theme=vision-friendly-dark" />
 
 </div>
