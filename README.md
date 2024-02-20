@@ -24,8 +24,8 @@
 </picture>
 
 -   Student Self Taught Programmer
--   OS: [Arch Linux](https://archlinux.org/)
--   Currently working on advent of code
+-   OS: [Arch Linux](https://archlinux.org/)/[EndeavourOS](https://endeavouros.com/) | Windows 11
+-   Currently working on new website for https://bthsrobotics.com
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
 
 
@@ -52,5 +52,4 @@
   <h2>My stats</h2>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cherriae" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherriae&layout=compact&theme=vision-friendly-dark" />
-
 </div>
