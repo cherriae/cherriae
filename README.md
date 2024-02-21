@@ -30,32 +30,26 @@
 
 <br />
 <br />
+<br />
 <div class="header" align="center">
   <h2> Discord </h2>
   <img src="https://discord-readme-badge.vercel.app/api?id=827660621662257162" alt="discord" height="175" width="400"/>
 </div>
 
 <div class="header" align="center">
-  <h2>Skills</h2>
+  <h2>Skills/Tools</h2>
   <div>
-    <img src="https://skillicons.dev/icons?i=py,html,css,javascript,mongodb,java,discord,heroku,react,nextjs,tailwind,arch,vercel,npm" 
-/>
-  </div>
-</div>
-
-<div class="header" align="center">
-  <h2>Tools</h2>
-  <div>
+    <img src="https://skillicons.dev/icons?i=py,html,css,javascript,mongodb,java,discord,heroku,react,nextjs,tailwind,arch,vercel,npm" />
+    <br />
     <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,vscode" />
   </div>
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 50px;">
   <h2>Random Quotes/Joke</h2>
-  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="left" />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quotes" align="right" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="center" />
 </div>
-
+<br />
 <div class="header" align="center">
   <h2>My stats</h2>
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cherriae" />
