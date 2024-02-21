@@ -14,7 +14,7 @@
   <h1>
     <b>Hello!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;3+year+coding+experience">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;5+year+coding+experience;Web+Developer">
 
   <h2>About me</h2>
 </div>  
@@ -29,6 +29,12 @@
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
 
 <br />
+<br />
+<div class="header" align="center">
+  <h2> Discord </h2>
+  <img src="https://discord-readme-badge.vercel.app/api?id=827660621662257162" alt="discord" height="175" width="400"/>
+</div>
+
 <div class="header" align="center">
   <h2>Skills</h2>
   <div>
@@ -40,14 +46,14 @@
 <div class="header" align="center">
   <h2>Tools</h2>
   <div>
-    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,vscode" 
-/>
+    <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,vscode" />
   </div>
 </div>
 
-<div class="header" align="center">
-  <h2> <img src="https://skillicons.dev/icons?i=discord" width=24 height=24 style="justify-content:center;"/> Discord </h2>
-  <img src="https://discord-readme-badge.vercel.app/api?id=827660621662257162" alt="discord" height="175" width="400"/>
+<div align="center">
+  <h2>Random Quotes/Joke</h2>
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" align="left" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random quotes" align="right" />
 </div>
 
 <div class="header" align="center">
@@ -55,3 +61,5 @@
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cherriae" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cherriae&layout=compact&theme=vision-friendly-dark" />
 </div>
+
+
