@@ -25,7 +25,7 @@
 
 -   Student Self Taught Programmer
 -   OS: [Arch Linux](https://archlinux.org/)/[EndeavourOS](https://endeavouros.com/) | Windows 11
--   Currently working on a new portofolio
+-   Currently working on a [new portofolio](https://github.com/cherriae/cherriae.github.io/tree/rewrite)
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
 
 <br />
