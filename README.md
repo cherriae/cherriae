@@ -14,7 +14,7 @@
   <h1>
     <b>Hello!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;5+year+coding+experience;Web+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;6+year+coding+experience;Website+Developer">
 
   <h2>About me</h2>
 </div>  
@@ -24,7 +24,6 @@
 </picture>
 
 -   Student Self Taught Programmer
--   OS: [Arch Linux](https://archlinux.org/)/[EndeavourOS](https://endeavouros.com/) | Windows 11
 -   Website: [https://cherriae.github.io](https://cherriae.github.io)
 -   Currently working on a [Scouting App](https://github.com/team334/Scouting-App)
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
