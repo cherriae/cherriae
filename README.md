@@ -14,7 +14,7 @@
   <h1>
     <b>Hello!</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   </h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;6+year+coding+experience;Website+Developer">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira&size=22&duration=3000&color=1394CB&background=2E4AF000&center=true&vCenter=true&lines=Student+Developer;7+year+Coding+Experience;Website+Developer;Full+Stack+Developer">
 
   <h2>About me</h2>
 </div>  
@@ -25,7 +25,6 @@
 
 -   Student Self Taught Programmer
 -   Website: [https://cherriae.github.io](https://cherriae.github.io)
--   Currently working on a [Scouting App](https://github.com/team334/Scouting-App)
 -   Robotics [Team 334](https://github.com/team334) (Techknights), Programmer 
 
 <br />
@@ -39,7 +38,7 @@
 <div class="header" align="center">
   <h2>Skills/Tools</h2>
   <div>
-    <img src="https://skillicons.dev/icons?i=py,html,css,javascript,mongodb,java,discord,heroku,react,nextjs,tailwind,arch,vercel,npm" />
+    <img src="https://skillicons.dev/icons?i=py,html,css,javascript,mongodb,java,discord,heroku,react,nextjs,tailwind,arch,vercel,npm,sqlite" />
     <br />
     <img src="https://skillicons.dev/icons?i=webstorm,pycharm,idea,vscode" />
   </div>
